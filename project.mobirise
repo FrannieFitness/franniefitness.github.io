@@ -6,11 +6,11 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#42bfff",
-        "secondaryColor": "#42bfff",
-        "successColor": "#42bfff",
-        "infoColor": "#ffffff",
-        "warningColor": "#42bfff",
+        "primaryColor": "#2ab7ff",
+        "secondaryColor": "#2ab7ff",
+        "successColor": "#2ab7ff",
+        "infoColor": "#2ab7ff",
+        "warningColor": "#2ab7ff",
         "dangerColor": "#fac51c",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -27,7 +27,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 1,
-    "versionPublish": "4.1.7",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
   },
@@ -106,12 +106,6 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#282828",
             "fontSize": "1.35",
             "fontName": {
@@ -120,7 +114,13 @@
               "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -148,90 +148,90 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
         },
         {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": "6",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/background56-960x720.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "PRIVATE ONE-ON-ONE TRAINING",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Finally, get the full personal experience you deserve with Frannie. Receive weekly nutritional guides and fully customized workout plans to reach your desired goals.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT FRANNIE</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/background4-510x509.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "MEET FRANNIE",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "With over 16 years of experience, Frannie has had numerous client success stories. Frannie is Cooper Certified in personal training, weight training, nutrition and medical issues.  ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOW DOES IT WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLIENT REVIEWS&nbsp;</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/background1-960x720.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "NO MEMBERSHIP FEES",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "No registration fees or gym fees. Session costs include nutritional guidance and full access to Frannie's gym. Get the ultimate private and personal workout experience. &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRICING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FREE INTRODUCTORY SESSION</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
           "_name": "extSlider1",
-          "_anchor": "extSlider1-0",
           "_styles": {
             "H2": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "60px",
               "text-align": "center",
-              "color": "#42bfff"
+              "color": "#2ab7ff"
             },
             "P": {
               "color": "#ffffff",
               "font-size": "21px"
             }
-          }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "6",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/background56-960x720.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "PRIVATE ONE-ON-ONE TRAINING",
+                "showText": true,
+                "text": "Finally, get the full personal experience you deserve with Frannie. Receive weekly nutritional guides and fully customized workout plans to reach your desired goals.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT FRANNIE</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/background4-510x509.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "MEET FRANNIE",
+                "showText": true,
+                "text": "With over 16 years of experience, Frannie has had numerous client success stories. Frannie is Cooper Certified in personal training, weight training, nutrition and medical issues.  ",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOW DOES IT WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLIENT REVIEWS&nbsp;</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/background1-960x720.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "NO MEMBERSHIP FEES",
+                "showText": true,
+                "text": "No registration fees or gym fees. Session costs include nutritional guidance and full access to Frannie's gym. Get the ultimate private and personal workout experience. &nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRICING</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FREE INTRODUCTORY SESSION</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "extSlider1-0",
+          "articleLayout": false
         }
       ]
     }
