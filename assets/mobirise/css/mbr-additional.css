@@ -749,6 +749,23 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#extFeatures3-6 .mbr-iconfont-features4 {
+  color: #2ab7ff !important;
+}
+#extFeatures3-6 .wraper {
+  border-color: #2ab7ff !important;
+}
+#extForm1-7 H2 {
+  font-size: 36px;
+  text-align: center;
+}
+#social-buttons3-8 .mbr-section-title,
+#social-buttons3-8 .btn-social {
+  color: #fff;
+}
+#social-buttons3-8 .mbr-section-title {
+  font-size: 14px;
+}
 #extSlider1-0 H2 {
   font-family: 'Indie Flower', cursive;
   font-size: 60px;
