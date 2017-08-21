@@ -561,12 +561,12 @@
           "_name": "extTestimonials5",
           "_params": {
             "autoplay": true,
-            "timeout": 5,
+            "timeout": "3",
             "paddingTop": "3",
             "paddingBottom": "2",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/background3-1-960x960.jpg",
@@ -631,7 +631,7 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/background3x22-960x960.jpg",
@@ -792,12 +792,12 @@
           "_name": "extTestimonials1",
           "_params": {
             "autoplay": true,
-            "timeout": 5,
+            "timeout": "3",
             "paddingTop": 2,
             "paddingBottom": 1,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "text": "<p>“Frannie is the best personal trainer I've ever worked with. She customizes all your exercises to your needs and what your target areas are. I highly recommend Frannie if you are serious about getting healthy and getting in shape!”</p>",
                 "media": {
                   "image": {
@@ -835,7 +835,7 @@
                 "authorBio": "Client"
               },
               {
-                "active": false,
+                "active": true,
                 "text": "<p>“Frannie is awesome! She really is helping me get in shape. If you're looking for a trainer I would recommend Frannie 100%!”</p>",
                 "media": {
                   "image": {
