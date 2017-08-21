@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -755,6 +756,12 @@ h6,
 #extFeatures3-6 .wraper {
   border-color: #2ab7ff !important;
 }
+#pricing-table1-9 .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-9 .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #extForm1-7 H2 {
   font-size: 36px;
   text-align: center;
@@ -775,4 +782,14 @@ h6,
 #extSlider1-0 P {
   color: #ffffff;
   font-size: 21px;
+}
+#extFeatures8-a .feature-title,
+#extFeatures8-a .description {
+  color: #232323;
+}
+#extFeatures8-a .feature-subtitle {
+  color: #8c8c8c;
+}
+#extFeatures8-a .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
 }
