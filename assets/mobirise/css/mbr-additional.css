@@ -8,7 +8,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -758,12 +757,13 @@ h6,
 }
 #pricing-table1-9 .mbr-section__container .mbr-section-title {
   color: #fff;
+  font-size: 46px;
 }
 #pricing-table1-9 .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
 }
 #extForm1-7 H2 {
-  font-size: 36px;
+  font-size: 46px;
   text-align: center;
 }
 #social-buttons3-8 .mbr-section-title,
@@ -783,13 +783,25 @@ h6,
   color: #ffffff;
   font-size: 21px;
 }
-#extFeatures8-a .feature-title,
-#extFeatures8-a .description {
-  color: #232323;
+#extTestimonials5-c .mbr-section-subtitle {
+  font-size: 19px;
 }
-#extFeatures8-a .feature-subtitle {
-  color: #8c8c8c;
+#extTestimonials5-c .mbr-section-title {
+  font-size: 46px;
 }
-#extFeatures8-a .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+#features4-d .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-d .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-d P {
+  color: #ffffff;
+}
+#features4-d H4 {
+  color: #2ab7ff;
+}
+#extTestimonials1-5 .mbr-section-title {
+  font-size: 46px;
 }
