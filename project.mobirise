@@ -151,7 +151,7 @@
           "_params": {
             "iconsBgColor": "@primaryColor",
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/background467-2000x2000.jpg",
@@ -185,7 +185,7 @@
           },
           "title1": "Frannie's Motivation",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "\"If you are ready to improve your lifestyle through the incorporation of an effective workout routine, I can help you. I constantly strive to keep my clients' workouts fun and energized. The result is that they have increased motivation because they look forward to their workouts and feel good when they are done.\"<br>",
+          "caption1": "<i>\"If you are ready to improve your lifestyle through the incorporation of an effective workout routine, I can help you. I constantly strive to keep my clients' workouts fun and energized. The result is that they have increased motivation because they look forward to their workouts and feel good when they are done.\"</i><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -201,7 +201,7 @@
           },
           "title2": "Frannie's Success",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "\"As a weight loss specialist I have seen people lose from 10 pounds to 180 pounds by following my fitness regimens. I enjoy working with my clients to help them improve their lives through fitness and healthier habits.\"",
+          "caption2": "<i>\"As a weight loss specialist I have seen people lose from 10 pounds to 180 pounds by following my fitness regimens. I enjoy working with my clients to help them improve their lives through fitness and healthier habits.\"</i>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -217,7 +217,7 @@
           },
           "title3": "Frannie's Advice",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "\"Fitness and nutrition shouldn't stop when you go on vacation. That's why I'll create a vacation program for you so that you don't lose any progress towards your fitness goal.\"",
+          "caption3": "<i>\"Fitness and nutrition shouldn't stop when you go on vacation. That's why I'll create a vacation program for you so that you don't lose any progress towards your fitness goal.\"</i>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -240,6 +240,13 @@
             },
             ".wraper": {
               "border-color": "@primaryColor !important"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "I": {
+              "font-size": "17px"
             }
           }
         },
@@ -464,8 +471,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "facebook": true,
-            "twitter": false,
-            "google": false,
+            "twitter": true,
+            "google": true,
             "vkontakte": false,
             "odnoklassniki": false
           },
@@ -508,7 +515,7 @@
                 "showText": true,
                 "text": "Finally, get the full personal training experience you deserve with Frannie. Receive weekly nutritional guides and fully customized workout plans to reach your desired goals.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT FRANNIE</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#extTestimonials5-c\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#extForm1-7\" data-toolbar=\"-mbrBtnMove\">CONTACT FRANNIE</a>"
               },
               {
                 "active": false,
@@ -522,7 +529,7 @@
                 "showText": true,
                 "text": "With over 16 years of experience, Frannie has had numerous client success stories. Frannie is Cooper Certified in personal training, weight training, nutrition, and medical issues.  ",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOW DOES IT WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLIENT REVIEWS&nbsp;</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extFeatures3-6\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extTestimonials1-5\" data-toolbar=\"-mbrBtnMove\">CLIENT REVIEWS&nbsp;</a>"
               },
               {
                 "active": false,
@@ -536,7 +543,7 @@
                 "showText": true,
                 "text": "No registration fees or gym fees. Session costs include nutritional guidance and full access to Frannie's gym. Get the ultimate private and personal workout experience. &nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRICING</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FREE INTRODUCTORY SESSION</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#pricing-table1-9\" data-toolbar=\"-mbrBtnMove\">PRICING</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#extForm1-7\" data-toolbar=\"-mbrBtnMove\">FREE INTRODUCTORY SESSION</a>"
               }
             ],
             "fullScreen": true,
@@ -766,7 +773,7 @@
               "border-color": "undefined !important"
             },
             "H4": {
-              "font-size": "24px",
+              "font-size": "25px",
               "color": "#2ab7ff"
             },
             "P": {

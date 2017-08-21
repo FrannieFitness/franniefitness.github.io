@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -760,6 +761,12 @@ h6,
 #extFeatures3-6 .wraper {
   border-color: #2ab7ff !important;
 }
+#extFeatures3-6 P {
+  font-family: 'Lora', serif;
+}
+#extFeatures3-6 I {
+  font-size: 17px;
+}
 #pricing-table1-9 .mbr-section__container .mbr-section-title {
   color: #fff;
   font-size: 46px;
@@ -804,7 +811,7 @@ h6,
   border-color: undefined !important;
 }
 #extFeatures4-f H4 {
-  font-size: 24px;
+  font-size: 25px;
   color: #2ab7ff;
 }
 #extFeatures4-f P {
