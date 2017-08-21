@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -686,6 +686,35 @@ h6,
 .theme-border {
   border: 1px solid #2ab7ff;
 }
+#extSlider1-0 H2 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+  text-align: center;
+  color: #42bfff;
+}
+#extSlider1-0 P {
+  color: #ffffff;
+  font-size: 21px;
+}
+#extFeatures3-6 .mbr-iconfont-features4 {
+  color: #2ab7ff !important;
+}
+#extFeatures3-6 .wraper {
+  border-color: #2ab7ff !important;
+}
+#extFeatures3-6 P {
+  font-family: 'Lora', serif;
+}
+#extFeatures3-6 I {
+  font-size: 17px;
+}
+#extTestimonials5-c .mbr-section-subtitle {
+  font-size: 19px;
+}
+#extTestimonials5-c .mbr-section-title {
+  font-size: 46px;
+  font-family: 'Slabo 27px', serif;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -756,17 +785,24 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#extFeatures3-6 .mbr-iconfont-features4 {
-  color: #2ab7ff !important;
+#extFeatures4-f .mbr-iconfont-features4 {
+  color: undefined !important;
 }
-#extFeatures3-6 .wraper {
-  border-color: #2ab7ff !important;
+#extFeatures4-f .wraper {
+  border-color: undefined !important;
 }
-#extFeatures3-6 P {
-  font-family: 'Lora', serif;
+#extFeatures4-f H4 {
+  font-size: 25px;
+  color: #2ab7ff;
+  font-family: 'Montserrat', sans-serif;
 }
-#extFeatures3-6 I {
+#extFeatures4-f P {
   font-size: 17px;
+  color: #ffffff;
+}
+#extTestimonials1-5 .mbr-section-title {
+  font-size: 46px;
+  font-family: 'Slabo 27px', serif;
 }
 #pricing-table1-9 .mbr-section__container .mbr-section-title {
   color: #fff;
@@ -787,40 +823,4 @@ h6,
 }
 #social-buttons3-8 .mbr-section-title {
   font-size: 14px;
-}
-#extSlider1-0 H2 {
-  font-family: 'Indie Flower', cursive;
-  font-size: 60px;
-  text-align: center;
-  color: #42bfff;
-}
-#extSlider1-0 P {
-  color: #ffffff;
-  font-size: 21px;
-}
-#extTestimonials5-c .mbr-section-subtitle {
-  font-size: 19px;
-}
-#extTestimonials5-c .mbr-section-title {
-  font-size: 46px;
-  font-family: 'Slabo 27px', serif;
-}
-#extFeatures4-f .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures4-f .wraper {
-  border-color: undefined !important;
-}
-#extFeatures4-f H4 {
-  font-size: 25px;
-  color: #2ab7ff;
-  font-family: 'Montserrat', sans-serif;
-}
-#extFeatures4-f P {
-  font-size: 17px;
-  color: #ffffff;
-}
-#extTestimonials1-5 .mbr-section-title {
-  font-size: 46px;
-  font-family: 'Slabo 27px', serif;
 }
