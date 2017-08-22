@@ -83,7 +83,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/background555-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background555-2000x1495.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -595,7 +595,7 @@
                 "authorBio": "Client"
               },
               {
-                "active": false,
+                "active": true,
                 "text": "<p>“Frannie is a great trainer. She is knowledgable, accommodating and motivating. I like training with her.”</p>",
                 "media": {
                   "image": {
@@ -614,7 +614,7 @@
                 "authorBio": "Client"
               },
               {
-                "active": true,
+                "active": false,
                 "text": "<p>“Frannie is awesome! She really is helping me get in shape. If you're looking for a trainer I would recommend Frannie 100%!”</p>",
                 "media": {
                   "image": {
@@ -718,7 +718,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"index.html#extForm1-7\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "label3": "HOT!",
           "title3": "GROUP",
-          "subtitle3": "3+ group session",
+          "subtitle3": "4+ group session",
           "currency3": "$",
           "price3": "25",
           "period3": "/hr.",
