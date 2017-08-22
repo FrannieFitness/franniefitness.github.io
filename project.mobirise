@@ -68,7 +68,7 @@
             "timeout": "6",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/background56-960x720.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -82,8 +82,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#extTestimonials5-c\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#extForm1-7\" data-toolbar=\"-mbrBtnMove\">CONTACT FRANNIE</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/background4-510x509.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/background555-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -722,7 +722,7 @@
           "currency3": "$",
           "price3": "25",
           "period3": "/hr.",
-          "description3": "If you want to save the most you can, you're welcome to join our group sessions at a more affordable cost.",
+          "description3": "If you want to save the most you can, you're welcome to join our group sessions at an even more affordable cost.",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Fully customized workout plan</li><li class=\"list-group-item\">Nutritional guide/Menu</li><li class=\"list-group-item\">**2 session minimum</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#extForm1-7\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "label4": "HOT!",
