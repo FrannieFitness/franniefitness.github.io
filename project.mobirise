@@ -93,7 +93,7 @@
                 "showText": true,
                 "text": "With over 16 years of experience, Frannie has had numerous client success stories. Frannie is Cooper Certified in personal training, weight training, nutrition, and medical issues.  ",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extFeatures3-6\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extTestimonials1-5\" data-toolbar=\"-mbrBtnMove\">CLIENT REVIEWS&nbsp;</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extFeatures3-6\" data-toolbar=\"-mbrBtnMove\">MORE FROM FRANNIE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extTestimonials1-5\" data-toolbar=\"-mbrBtnMove\">CLIENT REVIEWS&nbsp;</a>"
               },
               {
                 "active": false,
