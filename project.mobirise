@@ -595,7 +595,7 @@
                 "authorBio": "Client"
               },
               {
-                "active": true,
+                "active": false,
                 "text": "<p>“Frannie is a great trainer. She is knowledgable, accommodating and motivating. I like training with her.”</p>",
                 "media": {
                   "image": {
@@ -630,6 +630,25 @@
                   }
                 },
                 "authorName": "Katy C.",
+                "authorBio": "Client"
+              },
+              {
+                "active": true,
+                "text": "<p>\"Frannie is unique - she isn't just committed to her job, but to people. She truly invests in your success and will go the extra mile to get you where you want and/or need to be! She knows her stuff and won't give up on you, even when you do!\"</p>",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/dsf-159x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Athina S.",
                 "authorBio": "Client"
               }
             ],
@@ -666,6 +685,15 @@
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-label P": {
+              "color": "#faaf40",
+              "font-size": "13px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_tags": [
@@ -690,10 +718,10 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
-            "firstType": "",
+            "firstType": "hidden",
             "showButtons": true,
             "secondType": "bg-primary",
-            "thirdType": "",
+            "thirdType": "hidden",
             "fourthType": "hidden"
           },
           "title": "PRICING",
@@ -707,14 +735,14 @@
           "description1": "If you want a totally private and personal workout, this is the plan for you.",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Fully customized workout plan</li><li class=\"list-group-item\">Nutritional guide/Menu</li><li class=\"list-group-item\">**2 session minimum</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#extForm1-7\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
-          "label2": "HOT!",
-          "title2": "PAIR",
+          "label2": "<p><b>FREE INTRODUCTORY SESSION!</b></p>",
+          "title2": "PAIR UP",
           "subtitle2": "Doubles session",
           "currency2": "$",
           "price2": "30",
           "period2": "/hr.",
-          "description2": "If you are looking for a lower cost but still want a private experience, this is the plan for you.",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Fully customized workout plan</li><li class=\"list-group-item\">Nutritional guide/Menu</li><li class=\"list-group-item\">**2 session minimum</li></ul>",
+          "description2": "Frannie will pair you with another client",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Fully customized workout plan</li><li class=\"list-group-item\">Nutritional guide/Menu</li><li class=\"list-group-item\">Full access to Frannie's private gym</li><li class=\"list-group-item\">**2 session minimum</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"index.html#extForm1-7\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "label3": "HOT!",
           "title3": "GROUP",

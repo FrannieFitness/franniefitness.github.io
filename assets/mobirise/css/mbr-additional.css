@@ -15,6 +15,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -811,6 +812,14 @@ h6,
 }
 #pricing-table1-9 .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#pricing-table1-9 .mbr-plan-price-desc {
+  color: #ffffff;
+}
+#pricing-table1-9 .mbr-plan-label P {
+  color: #faaf40;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
 }
 #extForm1-7 H2 {
   font-size: 46px;
