@@ -244,7 +244,7 @@
           },
           "_params": {
             "autoplay": true,
-            "timeout": "3",
+            "timeout": "4",
             "paddingTop": "3",
             "paddingBottom": "2",
             "slides": [
@@ -571,7 +571,7 @@
           },
           "_params": {
             "autoplay": true,
-            "timeout": "3",
+            "timeout": "4",
             "paddingTop": 2,
             "paddingBottom": 1,
             "slides": [
